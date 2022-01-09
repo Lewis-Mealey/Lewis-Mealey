@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Elevens Card Game**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java!**
 
 - 📫 How to reach me **lewismealey@gmail.com**
 
