@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Lewis Mealey</h1>
 <h3 align="left">Full Time CS Student</h3>
 
+<p align="left"> <img src="https://github.com/Lewis-Mealey/Lewis-Mealey/blob/main/maxresdefault.jpg" alt="lewis-mealey" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewis-mealey&label=Profile%20views&color=0e75b6&style=flat" alt="lewis-mealey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewis-mealey" alt="lewis-mealey" /></a> </p>
