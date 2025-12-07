@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **building fullstack apps!**  
 - 🌱 I’m currently learning **C#**  
-- 💼 I work at **Nitec Solutions**  
+- 💼 Currently searching for work
 - 📫 How to reach me: **lewismealey@gmail.com**
 
 ---
