@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lewis Mealey</h1>
-<h3 align="center">Software Developer at Nitec Solutions</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
